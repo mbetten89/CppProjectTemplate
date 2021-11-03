@@ -1,7 +1,8 @@
-#include "celero/Celero.h"
+#include <celero/Celero.h>
+
 #include <random>
 
-#ifndef _WIN32
+#ifndef WIN32
 #include <cmath>
 #include <cstdlib>
 #endif
